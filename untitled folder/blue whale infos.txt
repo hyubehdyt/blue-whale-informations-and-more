@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>the blue whale</h1>
+<p>these are infos about the blue whale</p>
+
+</body>
+</html>
+<a href="https://www.youtube.com/channel/UCq-mxx-yg-K1R5sIMbigiFw"><button>best channel</button></a>
+<html style="background-color:powderblue;">
+make sure to subscribe on youtube
+<a href="https://en.wikipedia.org/wiki/Blue_whale">This is a link for all the informations you need</a>
+the blue whale is one of the loudest biggest animal. his sound can make an human not hear, the blue whale heart is bigger than an car. an his tounge weights more than 7 elephants. so these are quick facts press the link for all facts about the blue whale
+
